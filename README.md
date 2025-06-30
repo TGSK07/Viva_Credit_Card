@@ -1,4 +1,4 @@
-# 💳 Viva Credit Card Defaulter Prediction
+# Viva Credit Card Defaulter Prediction
 
 This project predicts whether a credit card customer is likely to default in the next month using logistic regression, helping VivaCredit make informed lending decisions.
 
